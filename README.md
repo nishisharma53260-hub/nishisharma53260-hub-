@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="350"/>
+  <img src="https://media.tenor.com/fM9J6v4Q8XgAAAAC/anime-girl-computer.gif" width="350"/>
 </p>
 
 ---
