@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="350"/>
 </p>
 
 ---
