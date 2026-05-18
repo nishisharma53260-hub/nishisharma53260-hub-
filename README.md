@@ -4,11 +4,11 @@
 <h1 align="center">💗 Hi, I'm Nishi Sharma 💗</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Welcome+to+my+cute+GitHub+profile!+💖;B.Sc+Healthcare+%26+Bioinformatics+with+AI+Student+🌸;Aspiring+Data+Scientist+💻;Learning+Python+%7C+SQL+%7C+Machine+Learning+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Welcome+to+my+cute+GitHub+profile!+💖;B.Sc+Data Science+with+AI+Student+🌸;Aspiring+Data+Scientist+💻;Learning+Python+%7C+SQL+%7C+Machine+Learning+✨" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 </p>
 
 ---
