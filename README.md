@@ -1,6 +1,6 @@
 # nishisharma53260-hub-
 
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/nishisharma53260-hub/nishisharma53260-hub/raw/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nishisharma53260-hub/nishisharma53260-hub/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
